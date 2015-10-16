@@ -1,4 +1,5 @@
 #ignore packages folder will be loaded by bootstrap
 packages
+.paket
 paket.exe
 paket.lock
