@@ -1,9 +1,7 @@
 {
-  "name": "Sample Suave web app",
-  "description": "Sample single-script Suave web app, deployable to Heroku.",
-  "website": "http://suave.io/",
-  "repository": "https://github.com/SuaveIO/heroku-getting-started",
-  "logo": "https://raw.githubusercontent.com/SuaveIO/suave/gh-pages/images/logo.gif",
+  "name": "Scaffolding project to using Suave.io",
+  "description": "Scaffolding Suave web app, deployable to Heroku.",
+  "repository": "https://github.com/halcwb/suave-fsx",
   "env": {
     "BUILDPACK_URL": "https://github.com/SuaveIO/mono-script-buildpack.git"
   }
